@@ -5,7 +5,7 @@
 
 ## python ##
 
-## rust ##
+## rust && C ##
 
 ## elm ##
 
@@ -30,4 +30,16 @@
 ## vue ##
 
 ## react ##
+
+## serverless ##
+
+## litte process ##
+
+## cloud native ##
+
+## flow pragaram langange ##
+
+## native UI framework ##
+
+## network ##
 
