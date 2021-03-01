@@ -4,3 +4,30 @@
 ## javascript ##
 
 ## python ##
+
+## rust ##
+
+## elm ##
+
+## docker ##
+
+## git ##
+
+## linux ##
+
+## vim ##
+
+## css&&WEBGL&&canvas ##
+
+## compile ##
+
+## algorithm ##
+
+## Security ##
+
+## Optimization ##
+
+## vue ##
+
+## react ##
+
