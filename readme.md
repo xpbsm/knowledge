@@ -9,7 +9,7 @@
 
 ## elm ##
 
-## docker ##
+## docker k8s ##
 
 ## git ##
 
