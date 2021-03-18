@@ -12,6 +12,10 @@
 ## docker k8s ##
 
 ## git ##
+git branch 本地分支列表
+git branch -a 所有分支列表
+git branch -d xxx 删除本地分支
+git push origin --delete xxx 删除远程分支
 
 ## linux ##
 
