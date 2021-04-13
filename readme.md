@@ -1,5 +1,6 @@
 ## go ##
 1.https://github.com/inancgumus/learngo A Huge Number of Go Examples, Exercises and Quizzes
+2.https://www.practical-go-lessons.com/
 
 ## javascript ##
 
