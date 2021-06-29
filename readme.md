@@ -25,6 +25,7 @@ git mv file-name file-name2 git 大小写不敏感 mv 能标记重命名功能<b
 https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] 更好的操作 git undo 需要rust 环境安装 <br>
 https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md git 基础知识在线书籍 <br>
 https://github.com/commitizen/cz-cli git commit rules 规范<br> git-cz <br>
+https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli 发版时生成版本changeLog.md <br>
 ## linux ##
 
 ## vim ##
