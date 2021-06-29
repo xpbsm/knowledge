@@ -25,14 +25,14 @@ git remote prune origin 远程分支被删除 清空本地
 git checkout --track orgin/branch_name 本地创建branch_name 分支并同步 
 git mv file-name file-name2 git 大小写不敏感 mv 能标记重命名功能
 ```
-https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] 更好的操作 git undo 需要rust 环境安装 <br>
-https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md git 基础知识在线书籍 <br>
+https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] git undo <br>
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md  Base info about git <br>
 https://github.com/commitizen/cz-cli git commit rules 规范 git-cz <br>
-https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli 发版时生成版本changeLog.md <br>
+https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli  Generator changeLog.md file when publish new version <br>
 ## linux ##
-https://github.com/ibraheemdev/modern-unix 现代linux 命令工具
-https://github.com/google/zx 利用node 写 shell script
-https://github.com/tldr-pages/tldr 查询命令解释工具
+https://github.com/ibraheemdev/modern-unix  Modern linux commond line tools. <br>
+https://github.com/google/zx Use node code shell script. <br>
+https://github.com/tldr-pages/tldr There seems to be room for simpler help pages, focused on practical examples. <br>
 ## vim ##
 
 ## css&&WEBGL&&canvas ##
