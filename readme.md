@@ -9,7 +9,7 @@
 ## python ##
 
 ## rust && C ##
-
+https://github.com/Schniz/fnm Node version manage tools [rust] install is simple in fish shell(compare with nvm ). 
 ## elm ##
 
 ## docker k8s ##
