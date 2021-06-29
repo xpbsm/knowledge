@@ -32,6 +32,7 @@ https://github.com/conventional-changelog/conventional-changelog/tree/master/pac
 ## linux ##
 https://github.com/ibraheemdev/modern-unix 现代linux 命令工具
 https://github.com/google/zx 利用node 写 shell script
+https://github.com/tldr-pages/tldr 查询命令解释工具
 ## vim ##
 
 ## css&&WEBGL&&canvas ##
