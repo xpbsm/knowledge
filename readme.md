@@ -37,6 +37,7 @@ https://github.com/conventional-changelog/conventional-changelog/tree/master/pac
 https://github.com/ibraheemdev/modern-unix  Modern linux commond line tools. <br>
 https://github.com/google/zx Use node code shell script. <br>
 https://github.com/tldr-pages/tldr There seems to be room for simpler help pages, focused on practical examples. <br>
+https://github.com/gpakosz/.tmux  oh my tmux plugin <br>
 ## vim ##
 https://github.com/iggredible/Learn-Vim learn vim book
 
