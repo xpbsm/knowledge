@@ -31,6 +31,7 @@ https://github.com/commitizen/cz-cli git commit rules 规范 git-cz <br>
 https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli 发版时生成版本changeLog.md <br>
 ## linux ##
 https://github.com/ibraheemdev/modern-unix 现代linux 命令工具
+https://github.com/google/zx 利用node 写 shell script
 ## vim ##
 
 ## css&&WEBGL&&canvas ##
