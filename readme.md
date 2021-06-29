@@ -6,6 +6,7 @@
 
 ## javascript ##
 https://github.com/denysdovhan/wtfjs javascript we all know that JavaScript is quite a funny language with tricky parts <br>
+https://github.com/jamiebuilds/babel-handbook <br>
 ## python ##
 
 ## rust && C ##
