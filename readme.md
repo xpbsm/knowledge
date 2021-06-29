@@ -7,7 +7,7 @@
 ## javascript ##
 https://github.com/denysdovhan/wtfjs javascript we all know that JavaScript is quite a funny language with tricky parts <br>
 https://github.com/jamiebuilds/babel-handbook  learnging babel books<br>
-https://github.com/phuoc-ng/1loc  simple function to achieve javacript<br>
+https://github.com/phuoc-ng/1loc  how to use oneline code to write javascript function lib<br>
 ## python ##
 
 ## rust && C ##
