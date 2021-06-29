@@ -19,6 +19,7 @@ git branch -a 所有分支列表 <br>
 git branch -d xxx 删除本地分支 <br>
 git push origin --delete xxx 删除远程分支 <br>
 https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] 更好的操作 git undo 需要rust 环境安装 <br>
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md git 基础知识在线书籍
 ## linux ##
 
 ## vim ##
