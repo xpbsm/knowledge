@@ -7,8 +7,9 @@
 ## javascript ##
 https://github.com/denysdovhan/wtfjs javascript we all know that JavaScript is quite a funny language with tricky parts <br>
 https://github.com/jamiebuilds/babel-handbook  learnging babel books<br>
-https://github.com/phuoc-ng/1loc  how to use oneline code to write javascript function lib<br>
-https://github.com/alibaba/hooks react hooks lib <br>
+https://github.com/phuoc-ng/1loc  How to use oneline code to write javascript function lib<br>
+https://github.com/alibaba/hooks React hooks lib <br>
+https://github.com/javascript-tutorial The Modern JavaScript Tutorial
 ## python ##
 
 ## rust && C ##
