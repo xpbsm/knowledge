@@ -9,7 +9,7 @@
 ## python ##
 
 ## rust && C ##
-https://github.com/Schniz/fnm Node version manage tools [rust] install is simple in fish shell(compare with nvm ). 
+https://github.com/Schniz/fnm A super fast alternative to NVM and out of box to fish shell. fnm is a very fast Node.js version manager, ~40x faster than NVM. It supports .nvmrc files and Fish shell out of the box. It works on Linux and Mac and distributed as a single executable  
 ## elm ##
 
 ## docker k8s ##
