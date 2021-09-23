@@ -42,6 +42,12 @@ git remote prune origin 远程分支被删除 清空本地
 git checkout --track orgin/branch_name 本地创建branch_name 分支并同步
 git mv file-name file-name2 git 大小写不敏感 mv 能标记重命名功能
 git symbolic-ref --short -q HEAD 获取当前所在分支
+
+git reset --soft HEAD^ (--hard 连带撤销work space)
+HEAD^ 表示上一个版本，即上一次的commit，也可以写成HEAD~1
+如果进行两次的commit，想要都撤回，可以使用HEAD~2
+git commit --amend 修改本次commit
+
 ```
 
 https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] git undo <br>
