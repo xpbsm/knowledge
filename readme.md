@@ -48,6 +48,7 @@ HEAD^ 表示上一个版本，即上一次的commit，也可以写成HEAD~1
 如果进行两次的commit，想要都撤回，可以使用HEAD~2
 git commit --amend 修改本次commit
 
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
 ```
 
 https://github.com/arxanas/git-branchless/wiki/Tutorial [rust] git undo <br>
