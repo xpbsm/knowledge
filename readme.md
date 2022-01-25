@@ -25,7 +25,8 @@ https://github.com/SBoudrias/Inquirer.js 命名行工具 实现用户选择文�
 
 https://github.com/Schniz/fnm A super fast alternative to NVM and out of box to fish shell. fnm is a very fast Node.js version manager, ~40x faster than NVM. It supports .nvmrc files and Fish shell out of the box. It works on Linux and Mac and distributed as a single executable <br>  
 https://github.com/alacritty/alacritty Alacritty - A fast, cross-platform, OpenGL terminal emulator <br>
-https://github.com/dtolnay/proc-macro-workshop. 
+https://github.com/dtolnay/proc-macro-workshop.   
+https://github.com/xpbsm/volta    
 ## elm
 
 ## docker k8s
