@@ -66,6 +66,7 @@ https://github.com/gpakosz/.tmux oh my tmux plugin <br>
 ## vim
 
 https://github.com/iggredible/Learn-Vim learn vim book
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#navigation. 
 
 ## css&&WEBGL&&canvas
 
